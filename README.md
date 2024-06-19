@@ -20,7 +20,7 @@ This project folder contains two main folders and an image set folder.
 
 ### Running the Notebooks:
 
-- **We used Google Colab to run the notebook files.**
+- **I used Google Colab to run the notebook files.**
 
   **To run on Google Colab:**
   1. Download the notebook file.
