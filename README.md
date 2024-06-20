@@ -16,7 +16,7 @@ This project folder contains two main folders and an image set folder.
 
 3. **Images_set**
    - Contains all the images we have tested or tried during the execution.
-   - Alternatively, access the image set through this [drive link](https://drive.google.com/drive/folders/1jCWN-UEeqK3R4FG0b5iPB0WFVzLpjtpF?usp=drive_link).
+  
 
 ### Running the Notebooks:
 
