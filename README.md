@@ -1,6 +1,51 @@
-# Underwater_Pipeline_Detection_Computer_Vision_Classical_CV
-This project focuses on detecting underwater pipelines using classical computer vision methods. The detection process involves analyzing underwater images with traditional image processing and computer vision algorithms, rather than relying on deep learning or neural network-based approaches.
-# Project Folder Structure
+**Underwater Pipeline Detection Computer Vision Classical CV**
+
+**Overview**
+
+This repository contains a robust and efficient classical computer vision pipeline for detecting underwater pipelines and similar infrastructure. The system is designed for robotic exploration and maintenance tasks, enabling autonomous underwater vehicles (AUVs) to identify and track submerged pipelines, cables, and power lines.
+Unlike deep learning-based approaches, this system relies entirely on classical computer vision techniques. It eliminates the need for extensive labeled datasets and high computational resources while still achieving excellent detection accuracy.
+
+**Pipeline Architecture**
+
+The algorithm consists of several stages:
+
+1. Pre-processing
+
+-Grayscale Conversion
+
+-White Balancing
+
+-Contrast-Limited Adaptive Histogram Equalization (CLAHE)
+
+
+2. Edge Enhancement and Noise Reduction
+
+-Gaussian Filtering
+
+-Adaptive Thresholding for Edge Detection
+
+
+3. Feature Extraction
+
+-Contour Detection and Filtering
+
+-Region of Interest (ROI) Processing
+
+
+4. Line Detection
+
+-Probabilistic Hough Transform
+
+## **Performance Metrics**
+
+Our system achieves the following performance metrics:
+
+| Algorithm Version | Images Processed | Successful Detections | Success Rate |
+|-------------------|------------------|------------------------|--------------|
+| Original Pipeline | 16               | 9                      | 56.25%       |
+| Improved Pipeline | 18               | 15                     | 83.33%       |
+
+# Old Project Folder Structure
 
 This project folder contains two main folders and an image set folder.
 
