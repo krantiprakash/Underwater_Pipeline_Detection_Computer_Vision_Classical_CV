@@ -11,30 +11,30 @@ The algorithm consists of several stages:
 
 1. Pre-processing
 
-   --Grayscale Conversion
+   i) Grayscale Conversion
 
--White Balancing
+   ii) White Balancing
 
--Contrast-Limited Adaptive Histogram Equalization (CLAHE)
+   iii) Contrast-Limited Adaptive Histogram Equalization (CLAHE)
 
 
 2. Edge Enhancement and Noise Reduction
 
--Gaussian Filtering
+   i) Gaussian Filtering
 
--Adaptive Thresholding for Edge Detection
+   ii) Adaptive Thresholding for Edge Detection
 
 
 3. Feature Extraction
 
--Contour Detection and Filtering
+   i) Contour Detection and Filtering
 
--Region of Interest (ROI) Processing
+   ii) Region of Interest (ROI) Processing
 
 
 4. Line Detection
 
--Probabilistic Hough Transform
+i) Probabilistic Hough Transform
 
 ## **Performance Metrics**
 
