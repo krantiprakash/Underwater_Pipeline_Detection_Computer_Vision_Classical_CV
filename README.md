@@ -11,7 +11,7 @@ The algorithm consists of several stages:
 
 1. Pre-processing
 
--Grayscale Conversion
+   --Grayscale Conversion
 
 -White Balancing
 
