@@ -34,7 +34,7 @@ The algorithm consists of several stages:
 
 4. Line Detection
 
-i) Probabilistic Hough Transform
+   i) Probabilistic Hough Transform
 
 ## **Performance Metrics**
 
