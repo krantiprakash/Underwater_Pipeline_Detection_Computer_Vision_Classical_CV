@@ -42,7 +42,7 @@ Our system achieves the following performance metrics:
 
 | Algorithm Version | Images Processed | Successful Detections | Success Rate |
 |-------------------|------------------|------------------------|--------------|
-| Original Pipeline | 16               | 9                      | 56.25%       |
+| Existing Pipeline | 16               | 9                      | 56.25%       |
 | Improved Pipeline | 18               | 15                     | 83.33%       |
 
 # Old Project Folder Structure
