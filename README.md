@@ -1,4 +1,4 @@
-**Underwater Pipeline Detection Computer Vision Classical CV**
+**Underwater Pipeline Detection using Classical Computer Vision**
 
 **Overview**
 
